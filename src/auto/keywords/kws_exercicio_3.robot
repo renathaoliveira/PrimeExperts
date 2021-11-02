@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Keywords Desafio Final 3 - PrimeExperts
+Documentation    Keywords Desafio Final 3 - PrimeHero
 
 *** Keywords ***
 Quando clicar em Sign in e adicionar email e preencher os campos
