@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Elementos Desafio Final - PrimeExperts
+Documentation    Elementos Desafio Final - PrimeHero
 
 *** Variables ***
 ${url}    http://automationpractice.com/index.php
