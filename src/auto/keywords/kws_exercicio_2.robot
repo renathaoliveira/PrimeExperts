@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Keywords Desafio Final 2 - PrimeExperts
+Documentation    Keywords Desafio Final 2 - PrimeHero
 
 *** Keywords ***
 Quando passar o cursor por cima da categoria women no menu principal
