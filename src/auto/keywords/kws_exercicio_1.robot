@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Keywords Desafio Final - PrimeExperts
+Documentation    Keywords Desafio Final - PrimeHero
 
 *** Keywords ***
 Dado que esteja na tela inicial
